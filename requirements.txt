@@ -1,0 +1,14 @@
+joblib==1.0.1
+numpy==1.20.2
+pandas==1.2.3
+Pillow==8.2.0
+python-dateutil==2.8.1
+pytz==2021.1
+scikit-learn==0.24.1
+scipy==1.6.2
+six==1.15.0
+threadpoolctl==2.1.0
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+typing-extensions==3.7.4.3
